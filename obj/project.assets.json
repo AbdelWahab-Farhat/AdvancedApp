@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/AdvancedApp.csproj",
+      "projectUniqueName": "/Users/abdelwahabfarhat/Desktop/Six/AdvancedApp/AdvancedApp.csproj",
       "projectName": "AdvancedApp",
-      "projectPath": "/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/AdvancedApp.csproj",
+      "projectPath": "/Users/abdelwahabfarhat/Desktop/Six/AdvancedApp/AdvancedApp.csproj",
       "packagesPath": "/Users/abdelwahabfarhat/.nuget/packages/",
-      "outputPath": "/Users/abdelwahabfarhat/Desktop/five/AdvancedApp/obj/",
+      "outputPath": "/Users/abdelwahabfarhat/Desktop/Six/AdvancedApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abdelwahabfarhat/.nuget/NuGet/NuGet.Config"
